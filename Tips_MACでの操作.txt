@@ -1,0 +1,5 @@
+MACで仮想環境をアクティベートする場合
+source ./bin/activate
+
+MACでcommitする場合
+git commit -m “[メッセージ]”
