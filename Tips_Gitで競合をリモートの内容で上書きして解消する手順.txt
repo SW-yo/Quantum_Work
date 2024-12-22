@@ -1,7 +1,6 @@
 ### Gitで競合をリモートの内容で上書きして解消する手順
 
 以下のコマンドを順番に実行してください：
-
 ```bash
 git checkout --theirs .
 git add .
