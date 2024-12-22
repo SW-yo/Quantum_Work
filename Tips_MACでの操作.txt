@@ -1,3 +1,5 @@
+###MACの操作
+
 MACで仮想環境をアクティベートする場合
 source ./bin/activate
 
